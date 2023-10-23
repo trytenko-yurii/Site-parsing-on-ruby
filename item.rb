@@ -22,11 +22,9 @@ class Item
 
     def info()
         if block.given?
-            puts "Start block!"
-            yield 
-            puts "Ending block!"
+            yield(self)
         else 
-            puts "Block is not find!"
+            puts "Block is not provided!"
         end
     end
 
@@ -41,7 +39,15 @@ class Item
     end 
 
     def to_h
-        {picture_link: @picture_link, name: @name, price: @price, description: @description, color: @color, size: @size, size_guide_link: @size_guide_link}
+    {
+        picture_link: @picture_link, 
+        name: @name, 
+        price: @price, 
+        description: @description, 
+        color: @color, 
+        size: @size, 
+        size_guide_link: @size_guide_link
+    }
     end
 
 end 

@@ -1,0 +1,7 @@
+Picture: asd 
+Name: name 
+Price: 100 
+Description: afafadfsd 
+Color: red 
+Size: 29 
+Size Guide: asd
