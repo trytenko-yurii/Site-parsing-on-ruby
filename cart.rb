@@ -1,3 +1,5 @@
+
+#This class is needed to store information in different formats and connection ItemContainer 
 class Cart
     
     def save_to_file
