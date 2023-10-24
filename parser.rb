@@ -1,8 +1,9 @@
-#In this file we 
+#In this file we parse the site 
 
 class Parser
 
-    def parse_item
+    def parse_item()
+        
     end
 
 end 
