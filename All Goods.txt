@@ -1,0 +1,145 @@
+Cart contents (TXT):
+- Picture: https://cdn.shopify.com/s/files/1/0077/0432/products/FunSponges5.5__BlockedClassicSwimTrunk__135232-01_OF_3.webp?v=1683214425&width=100&height=133&crop=center 
+Name: The Fun Sponges 
+Description: Classic Swim Trunk 
+Original Price: 69.5 
+Current Price: 40.0 
+Size: 4"5.5"7" 
+- Picture: https://cdn.shopify.com/s/files/1/0077/0432/products/GrandFinales_Tear-AwayTrunks__114232-00_OF_1.webp?v=1682716656&width=100&height=133&crop=center 
+Name: The Grand Finales 
+Description: Tear-Away Swim Trunk 
+Original Price: 84.5 
+Current Price: 40.0 
+Size: 5.5" 
+- Picture: https://cdn.shopify.com/s/files/1/0077/0432/files/Madison_Aves_7__Classic_Swim_Trunk__110232-01_SD.webp?v=1682716580&width=100&height=133&crop=center 
+Name: The Madison Aves 
+Description: Classic Swim Trunk 
+Original Price: 69.5 
+Current Price: 40.0 
+Size: 4"5.5"7" 
+- Picture: https://cdn.shopify.com/s/files/1/0077/0432/files/SideSwipes5.5__BlockedClassicSwimTrunk__135232-02_OF_3.webp?v=1683214435&width=100&height=133&crop=center 
+Name: The Side Swipes 
+Description: Classic Swim Trunk 
+Original Price: 69.5 
+Current Price: 40.0 
+Size: 4"5.5"7" 
+- Picture: https://cdn.shopify.com/s/files/1/0077/0432/products/301223-03_313223-03_OF2954_3433cc88-cb8c-464c-a425-4d915c357f1e.webp?v=1666732200&width=100&height=133&crop=center 
+Name: The Cardinal Rule 
+Description: Long Sleeve Ultimate Tee 
+Original Price: 49.5 
+Current Price: 20.0 
+Size:  
+- Picture: https://cdn.shopify.com/s/files/1/0077/0432/products/QUESTS_7_ULTIMATE_TRAINING_SHORT__OB_337212-02_8775.webp?v=1667596294&width=100&height=133&crop=center 
+Name: The Quests 
+Description: Ultimate Training Short 1.0 
+Original Price: 79.5 
+Current Price: 40.0 
+Size: 4"5.5"7" 
+- Picture: https://cdn.shopify.com/s/files/1/0077/0432/products/301223-04_Fog_2612_8a786c6e-0d39-4baf-bb93-c9c6beb92c69.webp?v=1668719403&width=100&height=133&crop=center 
+Name: The Fog 
+Description: Long Sleeve Ultimate Tee 
+Original Price: 49.5 
+Current Price: 20.0 
+Size:  
+- Picture: https://cdn.shopify.com/s/files/1/0077/0432/products/331223-04_NorthernLights_5_5551.webp?v=1666732181&width=100&height=133&crop=center 
+Name: The Northern Lights 
+Description: Ultimate Training Short 1.0 
+Original Price: 79.5 
+Current Price: 40.0 
+Size: 4"5.5"7" 
+- Picture: https://cdn.shopify.com/s/files/1/0077/0432/products/Arboretums_MovementumJogger__609223-02_300223-03_OF_8248.webp?v=1664830781&width=100&height=133&crop=center 
+Name: The Arboretums 
+Description: Movementum Jogger 
+Original Price: 79.5 
+Current Price: 40.0 
+Size: 29.5" 
+- Picture: https://cdn.shopify.com/s/files/1/0077/0432/products/WEB_CROP_CIRCLES_5.5_SD_008038-06_0501.webp?v=1667855278&width=100&height=133&crop=center 
+Name: The Crop Circles 
+Description: Velour Sweat Short 
+Original Price: 55.0 
+Current Price: 20.0 
+Size: 5.5"7" 
+- Picture: https://cdn.shopify.com/s/files/1/0077/0432/products/WEB_NIGHTCAPS_5.5_SD_008024-05_6987.webp?v=1668027980&width=100&height=133&crop=center 
+Name: The Nightcaps 
+Description: Velour Sweat Short 
+Original Price: 55.0 
+Current Price: 20.0 
+Size: 5.5"7" 
+- Picture: https://cdn.shopify.com/s/files/1/0077/0432/products/WEB_NIGHTCAPS_7_SD_008505-02_7053.webp?v=1668027987&width=100&height=133&crop=center 
+Name: The Nightcaps 
+Description: Velour Sweat Short 
+Original Price: 55.0 
+Current Price: 20.0 
+Size: 5.5"7" 
+- Picture: https://cdn.shopify.com/s/files/1/0077/0432/files/The_Spring_Breaker__Tank-Top__LD_600221-02.webp?v=1692912630&width=100&height=133&crop=center 
+Name: The Spring Breaker 
+Description: Tank Top 
+Original Price: 29.5 
+Current Price: 15.0 
+Size:  
+- Picture: https://cdn.shopify.com/s/files/1/0077/0432/files/GiantWave_Tank_Grey_600232-33_OF.webp?v=1685567501&width=100&height=133&crop=center 
+Name: The Giant Wave - Grey 
+Description: Tank Top 
+Original Price: 29.5 
+Current Price: 15.0 
+Size:  
+- Picture: https://cdn.shopify.com/s/files/1/0077/0432/files/Cobblestone_TwillOverShirt__613231-02_OF_f678d1b7-188c-4741-a01d-d86a6a929e9b.webp?v=1685999457&width=100&height=133&crop=center 
+Name: The Cobblestone 
+Description: Twill Overshirt 
+Original Price: 74.5 
+Current Price: 40.0 
+Size:  
+- Picture: https://cdn.shopify.com/s/files/1/0077/0432/products/Fiddle_Henley__555232-06_SD.webp?v=1682716747&width=100&height=133&crop=center 
+Name: The Fiddle 
+Description: Henley 
+Original Price: 39.5 
+Current Price: 15.0 
+Size:  
+- Picture: https://cdn.shopify.com/s/files/1/0077/0432/products/ILetDogsOuts_KidsSwim__406232-02_SD.webp?v=1681333820&width=100&height=133&crop=center 
+Name: The I Let The Dogs Outs 
+Description: Little Kids Classic Swim Trunk 
+Original Price: 44.5 
+Current Price: 40.0 
+Size:  
+- Picture: https://cdn.shopify.com/s/files/1/0077/0432/products/LilFuegos_KidsSwim__406231-02_SD_4.webp?v=1681333745&width=100&height=133&crop=center 
+Name: The Lil Fuegos  
+Description: Little Kids Classic Swim Trunk 
+Original Price: 44.5 
+Current Price: 40.0 
+Size:  
+- Picture: https://cdn.shopify.com/s/files/1/0077/0432/products/Statesides_KidsSwim__406232-03_SD_4.webp?v=1682716704&width=100&height=133&crop=center 
+Name: The Statesides 
+Description: Little Kids Classic Swim Trunk 
+Original Price: 44.5 
+Current Price: 40.0 
+Size:  
+- Picture: https://cdn.shopify.com/s/files/1/0077/0432/products/LilTacoDips_MagicKidsSwim__407231-01_SD_2.webp?v=1681420182&width=100&height=133&crop=center 
+Name: The Lil Taco Dips 
+Description: Little Kids Magic Print Classic Swim Trunk 
+Original Price: 49.5 
+Current Price: 40.0 
+Size:  
+- Picture: https://cdn.shopify.com/s/files/1/0077/0432/products/BigBlues5.5__Originals__001232-04_OF_0003.webp?v=1678741734&width=100&height=133&crop=center 
+Name: The Big Blues 
+Description: Originals Stretch Twill Short 
+Original Price: 59.5 
+Current Price: 40.0 
+Size: 4"5.5"7" 
+- Picture: https://cdn.shopify.com/s/files/1/0077/0432/products/BigBlues-7_012232-044_OF_0082.webp?v=1678741729&width=100&height=133&crop=center 
+Name: The Big Blues 
+Description: Originals Stretch Twill Short 
+Original Price: 59.5 
+Current Price: 40.0 
+Size: 4"5.5"7" 
+- Picture: https://cdn.shopify.com/s/files/1/0077/0432/products/TRUE_BLUES_5.5_STRETCH__OB_001214-02_7493.webp?v=1665090483&width=100&height=133&crop=center 
+Name: The True Blues 
+Description: Originals Stretch Twill Short 
+Original Price: 59.5 
+Current Price: 40.0 
+Size: 4"5.5"7" 
+- Picture: https://cdn.shopify.com/s/files/1/0077/0432/products/VANILLAS_5.5_SD_001106-01_9531.webp?v=1665090440&width=100&height=133&crop=center 
+Name: The Vanillas 
+Description: Originals Stretch Twill Short 
+Original Price: 59.5 
+Current Price: 40.0 
+Size: 4"5.5"7" 
