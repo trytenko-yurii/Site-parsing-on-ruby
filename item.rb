@@ -8,46 +8,47 @@
 =end
 
 class Item
-    attr_accessor :name, :description, :price, :color, :size, :picture_link, :size_guide_link
-    
-    def initialize(name, description, price, color, size, picture_link, size_guide_link)
+    attr_accessor :name, :description, :price, :color, :size, :picture_link
+
+    def initialize(name, description, original_price, current_price, size, picture_link)
         @name = name
         @description = description
-        @price = price
-        @color = color
+        @original_price = original_price
+        @current_price = current_price
         @size = size
-        @size_guide_link = size_guide_link
         @picture_link = picture_link
-    end 
+    end
 
-    def info()
-        if block.given?
-            yield(self)
-        else 
-            puts "Block is not provided!"
+    def info(&block)
+        if block_given?
+            block.call(self)
+        else
+            puts "Name: #{@name}"
+            puts "Description: #{@description}"
+            puts "Original Price: #{@original_price}"
+            puts "Current Price: #{@current_price}"
+            puts "size: #{@size}"
         end
     end
 
-    def to_s 
+    def to_s
         "Picture: #{@picture_link} \n" +
         "Name: #{@name} \n" +
-        "Price: #{@price} \n" + 
         "Description: #{@description} \n" +
-        "Color: #{@color} \n" +
-        "Size: #{@size} \n" + 
-        "Size Guide: #{@size_guide_link}"
-    end 
+        "Original Price: #{@original_price} \n" +
+        "Current Price: #{@current_price} \n" +
+        "Size: #{@size} \n"
+    end
 
     def to_h
     {
-        picture_link: @picture_link, 
-        name: @name, 
-        price: @price, 
-        description: @description, 
-        color: @color, 
-        size: @size, 
-        size_guide_link: @size_guide_link
+        picture_link: @picture_link,
+        name: @name,
+        original_price: @original_price,
+        current_price: @current_price,
+        description: @description,
+        size: @size
     }
     end
 
-end 
+end

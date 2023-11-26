@@ -1,31 +1,51 @@
 require_relative 'main_application'
+require_relative 'item_container'
 
-#This class is needed to store information in different formats and connection ItemContainer 
+#This class is needed to store information in different formats and connection ItemContainer
 class Cart
-    #extend ItemContainer
+  include ItemContainer
 
-    def initialize(main_application)
-        @main_application = main_application
-    end 
-
-    def save_to_file(item)
-        File.open(@main_application::FILE_PATH, 'w') { |file| file.write(item) }
-        puts "файл створено!!"
+    def initialize
+        @items = []
     end
 
-    def save_to_csv(item)
-        CSV.open(@main_application::CSV_FILE_PATH, "w") do |csv|
-            csv << [item.name, item.price, item.description, item.color, item.size, item.picture_link, item.size_guide_link]
+    def save_to_file(filename, format)
+        case format
+        when 'txt'
+          save_to_txt(filename)
+        when 'json'
+          save_to_json(filename)
+        when 'csv'
+          save_to_csv(filename)
+        else
+          puts "Unsupported format: #{format}"
         end
-        puts "файл csv створено!!"
-    end 
+      end
 
-    def save_to_json(item)
-        json_data = JSON.generate(item.to_h)
-        
-        File.open(@main_application::JSON_FILE_PATH, 'w') { |file| file.write(json_data) }
+    private
 
-        puts "файл json створено!!"
+    def save_to_txt(filename)
+      File.open(filename, 'w') do |file|
+        file.puts "Cart contents (TXT):"
+        @items.each { |item| file.puts "- #{item}" }
+        puts "Cart saved to #{filename} in TXT format."
+      end
     end
-    
+
+    def save_to_json(filename)
+      json_data = { items: @items }
+      File.open(filename, 'w') do |file|
+        file.puts JSON.pretty_generate(json_data)
+        puts "Cart saved to #{filename} in JSON format."
+      end
+    end
+
+    def save_to_csv(filename)
+      CSV.open(filename, 'w') do |csv|
+        csv << ['Item']
+        @items.each { |item| csv << [item] }
+        puts "Cart saved to #{filename} in CSV format."
+      end
+    end
+
 end

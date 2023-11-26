@@ -2,11 +2,7 @@
 require_relative'main_application'
 
 main_application = MainApplication.new
-cart = Cart.new(main_application)
-item = Item.new 'name', 'afafadfsd', 100, 'red', 29, 'asd', 'asd'
 
-puts item
+parser = Parser.new(main_application.user_data['site_Url'])
 
-cart.save_to_csv(item)
-cart.save_to_file(item)
-cart.save_to_json(item)
+parser.parse_item
