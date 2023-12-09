@@ -1,0 +1,2 @@
+module MyApplicationTrytenko
+end
