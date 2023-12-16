@@ -2,7 +2,7 @@
 require 'bundler/setup'
 Bundler.require
 require_relative 'main_application'
-require_relative'MyApplicationTrytenko'
+require_relative'my_application_trytenko'
 
 module MyApplicationTrytenko
     class Parser

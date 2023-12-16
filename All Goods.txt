@@ -1,14 +1,8 @@
 Cart contents (TXT):
-- Picture: https://cdn.shopify.com/s/files/1/0077/0432/files/Summer_Sunsets_Stretch__SD_109201-30.webp?v=1692306741&width=100&height=133&crop=center 
-Name: The Summer Sunsets 
+- Picture: https://cdn.shopify.com/s/files/1/0077/0432/files/255_Palm_Springers_7__Classic_Swim_Trunk__134232-03_OF__1.jpg?v=1701206418&width=100&height=100&crop=center 
+Name: The Palm Springers 
 Description: Classic Swim Trunk 
 Original Price: 69.5 
-Current Price: 20.0 
-Size: 4"5.5"7" 
-- Picture: https://cdn.shopify.com/s/files/1/0077/0432/files/TealBreakers5.5_ClassicLinedSwimTrunk__126233-02_OF.webp?v=1691183565&width=100&height=133&crop=center 
-Name: The Teal Breakers 
-Description: Lined Classic Swim Trunk 
-Original Price: 79.5 
 Current Price: 40.0 
 Size: 4"5.5"7" 
 - Picture: https://cdn.shopify.com/s/files/1/0077/0432/files/You_Cant_See_Mes_7__Stretch__318232-02_SD.webp?v=1692393750&width=100&height=133&crop=center 
@@ -23,41 +17,35 @@ Description: Gym Swim Hybrid Short
 Original Price: 59.5 
 Current Price: 40.0 
 Size: 5.5"7" 
+- Picture: https://cdn.shopify.com/s/files/1/0077/0432/files/Palm_Springers_4__Classic_Swim_Trunk__138232-03_OF.webp?v=1688159808&width=100&height=133&crop=center 
+Name: The Palm Springers 
+Description: Classic Swim Trunk 
+Original Price: 69.5 
+Current Price: 40.0 
+Size: 4"5.5"7" 
 - Picture: https://cdn.shopify.com/s/files/1/0077/0432/products/321223-06_SwampMonsters_5.5_2563.webp?v=1701362202&width=100&height=133&crop=center 
 Name: The Swamp Monsters 
 Description: Compression Lined Athlounger Short 
 Original Price: 69.5 
 Current Price: 20.0 
 Size: 5.5"7" 
-- Picture: https://cdn.shopify.com/s/files/1/0077/0432/products/Professionals_UltimateSportJogger_308223-01_OF_4743.webp?v=1667430391&width=100&height=133&crop=center 
-Name: The Professionals 
-Description: Ultimate Sport Jogger 
-Original Price: 89.5 
-Current Price: 40.0 
-Size: 29" 
 - Picture: https://cdn.shopify.com/s/files/1/0077/0432/files/STATIC_SHOCKS_5.5_UNLINED_ULTIMATE_TRAINING_SHORT__338232-01_SD.webp?v=1692653536&width=100&height=133&crop=center 
 Name: The Static Shocks 
 Description: Unlined Ultimate Training Short 
 Original Price: 64.5 
 Current Price: 40.0 
 Size: 5.5" 
-- Picture: https://cdn.shopify.com/s/files/1/0077/0432/files/You_Cant_See_Mes_7__Stretch__318232-02_SD.webp?v=1692393750&width=100&height=133&crop=center 
-Name: The You Cant See Mes 
-Description: Gym Swim Hybrid Short 
-Original Price: 59.5 
+- Picture: https://cdn.shopify.com/s/files/1/0077/0432/files/WINDY_SPIRITS_5.5_UNLINED_ULTIMATE_TRAINING_SHORT__338232-00_SD__4.webp?v=1692653530&width=100&height=133&crop=center 
+Name: The Windy Sprints 
+Description: Unlined Ultimate Training Short 
+Original Price: 64.5 
 Current Price: 40.0 
-Size: 5.5"7" 
-- Picture: https://cdn.shopify.com/s/files/1/0077/0432/files/Clash_Of_The_Tartans_5.5_Fleece_Short__SD_020214-03_4.webp?v=1696022154&width=100&height=133&crop=center 
-Name: The Clash Of The Tartans 
-Description: Fleece Sweat Short 
-Original Price: 54.5 
-Current Price: 20.0 
 Size: 5.5" 
-- Picture: https://cdn.shopify.com/s/files/1/0077/0432/products/WEB_CROP_CIRCLES_5.5_SD_008038-06_0501.webp?v=1667855278&width=100&height=133&crop=center 
-Name: The Crop Circles 
-Description: Velour Sweat Short 
-Original Price: 55.0 
-Current Price: 20.0 
+- Picture: https://cdn.shopify.com/s/files/1/0077/0432/products/GALAXY_DRIVERS_5.5_COMPRESSION_LINED__OB_321203-14_0018.webp?v=1667250477&width=100&height=133&crop=center 
+Name: The Galaxy Drivers 
+Description: Compression Lined Athlounger Short 
+Original Price: 69.5 
+Current Price: 40.0 
 Size: 5.5"7" 
 - Picture: https://cdn.shopify.com/s/files/1/0077/0432/products/WEB_NIGHTCAPS_5.5_SD_008024-05_6987.webp?v=1668027980&width=100&height=133&crop=center 
 Name: The Nightcaps 
@@ -71,18 +59,18 @@ Description: Velour Sweat Short
 Original Price: 55.0 
 Current Price: 20.0 
 Size: 5.5"7" 
-- Picture: https://cdn.shopify.com/s/files/1/0077/0432/products/499214-09_ChillyVibe_3091.webp?v=1668719330&width=100&height=133&crop=center 
-Name: The Chilly Vibe 
-Description: Fleece Quarter-Zip 
-Original Price: 69.5 
+- Picture: https://cdn.shopify.com/s/files/1/0077/0432/products/7-lounge-shorts-the-crop-circles-7-2.webp?v=1667855286&width=100&height=133&crop=center 
+Name: The Crop Circles 
+Description: Velour Sweat Short 
+Original Price: 55.0 
+Current Price: 20.0 
+Size: 5.5"7" 
+- Picture: https://cdn.shopify.com/s/files/1/0077/0432/products/FarOut_Sweatpant_068223-01_OF_4867copy_73a1a301-8b03-4852-852b-2846460e65dc.webp?v=1664917843&width=100&height=133&crop=center 
+Name: The Far Outs 
+Description: Sweatpant 
+Original Price: 59.5 
 Current Price: 40.0 
-Size:  
-- Picture: https://cdn.shopify.com/s/files/1/0077/0432/files/The_Spring_Breaker__Tank-Top__LD_600221-02.webp?v=1692912630&width=100&height=133&crop=center 
-Name: The Spring Breaker 
-Description: Tank Top 
-Original Price: 29.5 
-Current Price: 15.0 
-Size:  
+Size: 29" 
 - Picture: https://cdn.shopify.com/s/files/1/0077/0432/files/Schwoodie_Zip_Terry_Hoodie__614231-01_OF_01.webp?v=1692221089&width=100&height=133&crop=center 
 Name: The Schwoodie 
 Description: French Terry Full-Zip Hoodie 
@@ -92,6 +80,18 @@ Size:
 - Picture: https://cdn.shopify.com/s/files/1/0077/0432/files/NightSchwoodie_ZipTerryHoodie__614231-02_OF.webp?v=1692135178&width=100&height=133&crop=center 
 Name: The Night Schwoodie 
 Description: French Terry Full-Zip Hoodie 
+Original Price: 64.5 
+Current Price: 40.0 
+Size:  
+- Picture: https://cdn.shopify.com/s/files/1/0077/0432/files/Easy_Going_Friday_Shirt__603233-07_OF.webp?v=1691788409&width=100&height=133&crop=center 
+Name: The Easy Going 
+Description: Friday Shirt 
+Original Price: 64.5 
+Current Price: 40.0 
+Size:  
+- Picture: https://cdn.shopify.com/s/files/1/0077/0432/products/BlueBerrymore_LinenSundayShirt__444232-01_OF_0068.webp?v=1680556357&width=100&height=133&crop=center 
+Name: The Blue Berrymore 
+Description: Sunday Shirt 
 Original Price: 64.5 
 Current Price: 40.0 
 Size:  
@@ -125,8 +125,8 @@ Description: Originals Stretch Twill Short
 Original Price: 59.5 
 Current Price: 40.0 
 Size: 4"5.5"7" 
-- Picture: https://cdn.shopify.com/s/files/1/0077/0432/products/THIGHDESERTS5.5__ORIGINALS__001231-01_OF_1.webp?v=1680815330&width=100&height=133&crop=center 
-Name: The Thigh Deserts 
+- Picture: https://cdn.shopify.com/s/files/1/0077/0432/products/Dahlias7_Stretch__OB_012222-020546.webp?v=1665004387&width=100&height=133&crop=center 
+Name: The Dahlias 
 Description: Originals Stretch Twill Short 
 Original Price: 59.5 
 Current Price: 40.0 
@@ -137,9 +137,9 @@ Description: Originals Stretch Twill Short
 Original Price: 59.5 
 Current Price: 40.0 
 Size: 4"5.5"7" 
-- Picture: https://cdn.shopify.com/s/files/1/0077/0432/products/Dahlias7_Stretch__OB_012222-020546.webp?v=1665004387&width=100&height=133&crop=center 
-Name: The Dahlias 
-Description: Originals Stretch Twill Short 
-Original Price: 59.5 
+- Picture: https://cdn.shopify.com/s/files/1/0077/0432/products/Vanillas5.5__6PocketShort__072231-03_SD.webp?v=1682716202&width=100&height=133&crop=center 
+Name: The Vanillas 
+Description: 6-Pocket Short 
+Original Price: 54.5 
 Current Price: 40.0 
-Size: 4"5.5"7" 
+Size: 5.5"7" 
